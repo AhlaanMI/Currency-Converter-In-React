@@ -53,7 +53,7 @@ function App() {
 
   return (
     <>
-      <h1>Convert</h1>
+      <h1>Convertt</h1>
       <CurrencyRow
         currencyOptions={currencyOptions}
         selectedCurrency={fromCurrency}
